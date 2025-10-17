@@ -1,0 +1,17 @@
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\bin\Debug\net8.0-windows\Practica7Grados.exe
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\bin\Debug\net8.0-windows\Practica7Grados.deps.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\bin\Debug\net8.0-windows\Practica7Grados.runtimeconfig.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\bin\Debug\net8.0-windows\Practica7Grados.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\bin\Debug\net8.0-windows\Practica7Grados.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.Form1.resources
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.AssemblyInfo.cs
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.sourcelink.json
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\refint\Practica7Grados.dll
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.pdb
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\Practica7Grados.genruntimeconfig.cache
+C:\Users\chris\OneDrive - Instituto Tecnológico de Reynosa\GitHub\Grados\Practica7Grados\obj\Debug\net8.0-windows\ref\Practica7Grados.dll
